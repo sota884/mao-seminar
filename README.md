@@ -5,6 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 # メンバー
   わかば
+  エルマス
 # ディレクトリ構成
 ```
 seminar/
